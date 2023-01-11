@@ -41,7 +41,7 @@ Image translator: https://translate.yandex.com/ocr
 
 ● Run the balcao.c first
 
-● Run the amount of doctors (medico.c) and patients (cliente.c) that you want
+● Run the amount of doctors (medico.c (args: name specialty)) and patients (cliente.c (args: name)) that you want
 
 ● Communicate between programs
 
