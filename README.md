@@ -1,6 +1,7 @@
 # ISEC-SO-MEDICALso
 (Sistemas Operativos I)
 (Operating Systems I)
+Finished in January 2022
 
 I have been assigned with the development of a command line application for a Unix environment. 
 
