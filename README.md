@@ -40,7 +40,9 @@ Image translator: https://translate.yandex.com/ocr
 # How to use the application 
 
 ● Run the balcao.c first
+
 ● Run the amount of doctors (medico.c) and patients (cliente.c) that you want
+
 ● Communicate between programs
 
 
